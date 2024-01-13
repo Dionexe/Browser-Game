@@ -1,0 +1,14 @@
+body {
+    font-family:'LEMONMILK-Regular', Courier, monospace;
+    text-align: center;
+    background-color: #274C77;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("assets/flappybirdbg.png");
+}
+
+/* audio{
+    display: none
+} */
