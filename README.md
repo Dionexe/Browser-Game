@@ -1,5 +1,7 @@
 # Browser-Game
-Welcome to my game!
+Welcome to my game "Flappy Mercy"!
+
+Labeled for noncommercial reuse
 
 -One thing I would like to work on is making a version that work on a mobile device that allows the player to tap the sceen to jump. 
 
