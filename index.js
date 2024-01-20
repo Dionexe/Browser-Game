@@ -150,7 +150,7 @@ function moveBird(e) {
         //jump
         velocityY = -6;
 
-        //reset game
+        //reset game when a pipe is touched
         if (gameOver) {
             bird.y = birdY;
             pipeArray = [];
@@ -179,7 +179,7 @@ function playAudio() {
     }
 }
 
-// Event listener for the space bar
+// Event listener for the Enter/Return key
 document.addEventListener('keydown', function(event) {
     if (event.code === 'Enter' || event.key === 'Return') {
         playAudio();
